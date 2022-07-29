@@ -422,6 +422,10 @@ footer ul li:hover {
     top: 60%;
   }
 
+  .text p {
+    padding: 0 50px
+  }
+
   .client-container {
     flex-direction: column;
   }
