@@ -422,14 +422,6 @@ footer ul li:hover {
     top: 60%;
   }
 
-  #gd-text {
-    padding: 0 50px
-  }
-
-  #photo-text {
-    padding: 0 50px
-  }
-
   .client-container {
     flex-direction: column;
   }
