@@ -422,7 +422,11 @@ footer ul li:hover {
     top: 60%;
   }
 
-  .text p {
+  #gd-text {
+    padding: 0 50px
+  }
+
+  #photo-text {
     padding: 0 50px
   }
 
