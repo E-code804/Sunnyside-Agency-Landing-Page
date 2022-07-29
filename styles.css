@@ -159,6 +159,7 @@ nav {
 #double-imgs {
   padding: 0;
   display: flex;
+  width: 100%;
 }
 
 .img-w-description {
@@ -383,6 +384,15 @@ footer ul li:hover {
     color: #000;
   }
 
+  .header-hero {
+    margin-top: 20px;
+  }
+
+  .header-hero img {
+    height: 75px;
+    margin-top: -10px;
+  }
+
   .service-description {
     flex-direction: column;
   }
@@ -394,7 +404,7 @@ footer ul li:hover {
   .description {
     text-align: center;
     align-items: center;
-    padding: 65px 100px;
+    padding: 65px 40px;
   }
 
   .transform-standout p {
@@ -419,7 +429,15 @@ footer ul li:hover {
 
   .text {
     position: absolute;
-    top: 60%;
+    bottom: 0;
+  }
+
+  .text h1 {
+    margin: -20px 0 15px;
+  }
+
+  .text p {
+    padding: 0 25px;
   }
 
   .client-container {
